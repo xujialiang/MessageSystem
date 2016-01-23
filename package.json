@@ -1,0 +1,13 @@
+{
+  "name": "YiCool",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "npm start ./app.js"
+  },
+  "dependencies": {
+    "mysql": "^2.10.2",
+    "restify": "~4.0.3",
+    "sequelize": "~3.18.0"
+  }
+}
